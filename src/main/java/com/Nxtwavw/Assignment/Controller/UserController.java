@@ -10,6 +10,10 @@ import java.util.Map;
 import java.util.UUID;
 
 @RestController
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7760a0de3e1381cd135bb404f00a2c321de484b
 public class UserController {
 
     @Autowired

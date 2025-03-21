@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
+<<<<<<< HEAD
+=======
+
+>>>>>>> e7760a0de3e1381cd135bb404f00a2c321de484b
 public class ManagerController {
 
     @Autowired
