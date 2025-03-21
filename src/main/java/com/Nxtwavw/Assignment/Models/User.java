@@ -11,8 +11,6 @@ import java.time.LocalDateTime;
 public class User {
 
     @Id
-
-
     @Column(name = "user_id", updatable = false, nullable = false)
     private String userId;
 
